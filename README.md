@@ -1,0 +1,1 @@
+Here we had to access a data structure, then iterate over it, similar to how one would in a `fetch`. I improved the provide CSS to have the app take up the entire width of the screen, and to prevent the galley images from distorting. Previously the width of the app was a fraction of the width of the window.
